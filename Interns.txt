@@ -1,0 +1,41 @@
+Laid Back Interns :
+
+Front End Developers: 
+1. Poonam 
+2. Baraniya 
+3. Febia Thomas
+4. Deekshitha
+
+Backend and DevOps :
+1. Jai Surya
+2. Kesav
+3. Girish Kumar
+
+Mobile App Development (Hybrid Solution - React Native , Flutter):
+None
+
+Mobile App Development (Android - Kotlin) :
+None
+
+Mobile App Development (iOS - Swift) :
+None
+
+Graphic Designing , Logo Making, Wire Framing :
+1. Baraniya
+2. Febia Thomas
+3. Deekshitha
+
+Digital Marketing :
+None
+
+Internet Of Things (Raspberry Pi (Both Hardware and Software)):
+None
+
+Machine Learning:
+None
+
+Computer Vision:
+None
+
+Data Science :
+1.Poonam
